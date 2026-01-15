@@ -1,0 +1,13 @@
+aws
+aws --version (check whether it is installed)
+aws configure (give access key and secret access key)
+Step-by-step path:
+Log in to AWS Console
+Go to IAM
+Click Users
+Click your IAM username
+Open Security credentials tab
+Scroll to Access keys
+Click Create access key
+Choose Command Line Interface (CLI)
+Click Create access key
